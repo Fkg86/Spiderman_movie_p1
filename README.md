@@ -2,21 +2,20 @@
 
 A responsive movie website project was developed.
 
-# Used technologies
+# Used technolologies
 
-- HTML
-- CSS
-- Java Script
+-HTML
+-CSS
+-Java Script
 
 # Screenshots
 
-![]{img/1.jpg}
+![](1.jpg)
 
-# Video
+# Videos
 
-![]{img/Spiderman Website video.mp4}
-
+![](Spiderman Website video.mp4)
 
 # GIF
 
-![]{img/Spiderman Website.gif}
+![](Spiderman Website.gif)
