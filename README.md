@@ -19,3 +19,4 @@ A responsive movie website project was developed.
 # GIF
 
 ![](Spiderman_Website.gif)
+
